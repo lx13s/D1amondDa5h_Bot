@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D1amondDa5h_Bot", "D1amondDa5h_Bot\D1amondDa5h_Bot.csproj", "{D30D9105-F549-4E1A-96D6-274C259E2D4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D30D9105-F549-4E1A-96D6-274C259E2D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D30D9105-F549-4E1A-96D6-274C259E2D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D30D9105-F549-4E1A-96D6-274C259E2D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D30D9105-F549-4E1A-96D6-274C259E2D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+D:\Projects\D1amondDa5h_Bot\D1amondDa5h_Bot\D1amondDa5h_Bot\bin\Debug\D1amondDa5h_Bot.exe.config
+D:\Projects\D1amondDa5h_Bot\D1amondDa5h_Bot\D1amondDa5h_Bot\bin\Debug\D1amondDa5h_Bot.exe
+D:\Projects\D1amondDa5h_Bot\D1amondDa5h_Bot\D1amondDa5h_Bot\bin\Debug\D1amondDa5h_Bot.pdb
+D:\Projects\D1amondDa5h_Bot\D1amondDa5h_Bot\D1amondDa5h_Bot\obj\Debug\D1amondDa5h_Bot.csprojResolveAssemblyReference.cache
+D:\Projects\D1amondDa5h_Bot\D1amondDa5h_Bot\D1amondDa5h_Bot\obj\Debug\D1amondDa5h_Bot.Form1.resources
+D:\Projects\D1amondDa5h_Bot\D1amondDa5h_Bot\D1amondDa5h_Bot\obj\Debug\D1amondDa5h_Bot.Info.resources
+D:\Projects\D1amondDa5h_Bot\D1amondDa5h_Bot\D1amondDa5h_Bot\obj\Debug\D1amondDa5h_Bot.Properties.Resources.resources
+D:\Projects\D1amondDa5h_Bot\D1amondDa5h_Bot\D1amondDa5h_Bot\obj\Debug\D1amondDa5h_Bot.csproj.GenerateResource.Cache
+D:\Projects\D1amondDa5h_Bot\D1amondDa5h_Bot\D1amondDa5h_Bot\obj\Debug\D1amondDa5h_Bot.exe
+D:\Projects\D1amondDa5h_Bot\D1amondDa5h_Bot\D1amondDa5h_Bot\obj\Debug\D1amondDa5h_Bot.pdb
+D:\Projects\D1amondDa5h_Bot\D1amondDa5h_Bot\D1amondDa5h_Bot\bin\Debug\Microsoft.VisualStudio.TestTools.UITesting.dll
+D:\Projects\D1amondDa5h_Bot\D1amondDa5h_Bot\D1amondDa5h_Bot\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+D:\Projects\D1amondDa5h_Bot\D1amondDa5h_Bot\D1amondDa5h_Bot\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.dll
+D:\Projects\D1amondDa5h_Bot\D1amondDa5h_Bot\D1amondDa5h_Bot\bin\Debug\Microsoft.VisualStudio.TestTools.UITesting.xml
+D:\Projects\D1amondDa5h_Bot\D1amondDa5h_Bot\D1amondDa5h_Bot\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Extension.xml
+D:\Projects\D1amondDa5h_Bot\D1amondDa5h_Bot\D1amondDa5h_Bot\bin\Debug\Microsoft.VisualStudio.TestTools.UITest.Common.xml
